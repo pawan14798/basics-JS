@@ -1,0 +1,17 @@
+var a=10;
+console.log(a);
+
+function printHello()
+{
+    var a=20;
+    console.log(a);
+    if(true)
+    {
+        a=30;
+        console.log(a);
+    
+    }
+}
+printHello();
+var a=5;
+console.log(a);
