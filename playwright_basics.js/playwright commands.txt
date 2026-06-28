@@ -1,0 +1,10 @@
+#check node and npm version
+node -v
+npm -
+#go to your project folder then 
+#install playwright
+npm install -D @playwright/test
+#install driver
+npx playwright install
+#verify playwright version
+npx playwright --version
