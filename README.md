@@ -1,15 +1,19 @@
 # Basics JS
 
-A collection of JavaScript practice files covering core concepts:
-
-- Variables (`var`, `let`, `const`)
-- Function scope
-- Hoisting (variables & functions)
-- JavaScript fundamentals
+A collection of JavaScript and TypeScript practice files covering core concepts.
 
 ## Topics
 
-- **Chapter 04 - Variable Concepts**: Variable declarations, let vs var vs const
-- **Hoisting**: Variable hoisting and function hoisting examples
-- **Function Scope**: Understanding var and let behavior in function scope
-- **Practice Exercises**: Hands-on exercises for `let` keyword usage
+- **Variables**: `var`, `let`, `const` declarations
+- **Hoisting**: Variable & function hoisting
+- **Scope**: Function scope, block scope
+- **Functions**: Function expressions, declarations
+- **Arrays & 2D Arrays**: Array methods, iteration
+- **Operators**: Arithmetic, comparison, logical operators
+- **Strings**: String methods and manipulation
+- **Callbacks**: Synchronous callbacks
+- **Promises**: Promise chaining, error handling
+- **Async/Await**: Async functions, `await` usage
+- **OOP Basics**: Classes, objects, encapsulation, tasks
+- **Playwright Basics**: Browser automation fundamentals
+- **TypeScript**: Types (`any`, `unknown`, `never`), strict null checks, interfaces
